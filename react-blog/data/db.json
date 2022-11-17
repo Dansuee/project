@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "Let's go to the beach",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi quibusdam et mollitia eius, amet rem laborum ipsum quia optio deleniti quasi dicta. Dolor, fugiat ex voluptatibus sint corporis inventore vitae.\n",
+      "author": "Dave",
+      "id": 6
+    },
+    {
+      "title": "2nd blog",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi quibusdam et mollitia eius, amet rem laborum ipsum quia optio deleniti quasi dicta. Dolor, fugiat ex voluptatibus sint corporis inventore vitae.",
+      "author": "mosh",
+      "id": 7
+    },
+    {
+      "title": "Let's party",
+      "body": "dwawopdpkawodawd",
+      "author": "dave",
+      "id": 8
+    }
+  ]
+}
